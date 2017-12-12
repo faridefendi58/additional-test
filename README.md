@@ -12,6 +12,6 @@ Please check our live page version (https://www.niagahoster.co.id) for the detai
 1. And then please integrate the free version of jivo chat (https://www.jivochat.com/) to your chat button https://prnt.sc/hmca5p.
 You can make a free account there.
 1. And for sure, take care of the mobile view. Make sure that your page not break on mobile device resolution. 
+1. Finally, please give us your page on both preview url and link of your code repository.
 
-Finally, please give us your page on both preview url and link of your code repository.
 Note : if you are familiar with twig (https://twig.symfony.com/), using twig on creating your preview page is much better.
